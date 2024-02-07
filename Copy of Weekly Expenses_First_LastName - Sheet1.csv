@@ -1,0 +1,11 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment,Need/Want/Saving
+01/28,Sunday,5,Drink,Food,Debit,Want
+1/29,Monday,3.49,Candy,Food,Debit,Want
+1/29,Monday,2.75,Train,Travel,Debit,Need
+1/29,Monday,11.30,Uber,Travel,Debit,Need
+1/30,Tuesday,17,Junk Food,Food,Cash,Want
+2/1,Thursday,12.80,Junk Food,Food,Debit,Want
+2/6,Tuesday,4.50,Drink,Food,Debit,Want
+2/7,Wednesday,4.95,Drink,Food,Debit,Want
+2/7,Wednesday,1.75,Train,Travel,Debit,Need
+2/7,Wednesday,347.28,Concert,Entertainment and Recreation,Debit,Want
